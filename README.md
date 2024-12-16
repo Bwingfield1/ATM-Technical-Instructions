@@ -3,6 +3,7 @@ Giving proper instructions or just stating what you're doing in general is cruci
 create an ATM in Java.
 ### Cover
 <img width="385" alt="cover" src="https://github.com/user-attachments/assets/2376f25b-abe4-441f-ad5e-daed6392a5dc" />
+
 ### Contents
 <img width="407" alt="contents" src="https://github.com/user-attachments/assets/88cd4a9b-fc6f-4f19-b796-f0e9bb43aa49" />
 <img width="404" alt="intro" src="https://github.com/user-attachments/assets/0ba1d13e-413d-4aaa-a49f-a120f350aaad" />
