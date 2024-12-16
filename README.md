@@ -1,8 +1,6 @@
 # Technical Instructions for coding an ATM
 Giving proper instructions or just stating what you're doing in general is crucial when communication with others. I created an instruction manuel on how to
 create an ATM in Java. 
-Click [**here**](file:///C:/Users/Brandy/Downloads/Random/InstructionsProject_ATM_BrandyWingfield.pdf) to see our official document.
-[InstructionsProject_ATM_BrandyWingfield.pdf](https://github.com/user-attachments/files/18154663/InstructionsProject_ATM_BrandyWingfield.pdf)
 
 ### Cover
 <img width="385" alt="cover" src="https://github.com/user-attachments/assets/2376f25b-abe4-441f-ad5e-daed6392a5dc" />
